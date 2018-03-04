@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name=" TestNG parameter">
+<test name = "unit test">
+<parameter name ="userid" value ="abcd"></parameter>
+<classes>
+
+<class name ="com.test.InvocationCountTest"></class>
+<class name ="com.test.TestNgBasics"></class>
+
+</classes>
+
+</test>
+</suite>

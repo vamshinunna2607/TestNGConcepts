@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name=" TestNG session">
+<test name = "different TestNg Feature test">
+<classes>
+<class name ="com.test.ExceptionTimeoutTest"></class>
+<class name ="com.test.Googletest"></class>
+<class name ="com.test.GoogleTitleTest"></class>
+<class name ="com.test.InvocationCountTest"></class>
+<class name ="com.test.TestNgBasics"></class>
+<class name ="com.test.TestNGFeatures"></class>
+</classes>
+
+</test>
+</suite>
